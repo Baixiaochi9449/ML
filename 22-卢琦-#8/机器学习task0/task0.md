@@ -301,23 +301,6 @@ $$
 
 参数：学习率（α）、一阶动量 β1（通常为 0.9）、二阶动量 β2通常为 0.999）。
 
-## 常见算法学习
-
-**机器学习**：
-
-- 线性回归（Linear Regression）
-- 支持向量机（SVM）
-- 决策树和随机森林（Decision Trees, Random Forests）
-- K 近邻算法（KNN）
-- 朴素贝叶斯（Naive Bayes）
-
-**深度学习**：
-
-- 卷积神经网络（CNN）：用于图像处理和计算机视觉任务。
-- 循环神经网络（RNN）：用于处理序列数据，如语音识别、时间序列分析。
-- 生成对抗网络（GAN）：用于生成数据，如图像生成。
-- 变分自编码器（VAE）：用于无监督学习任务，如图像生成和异常检测。
-
 
 
 以上内容是重点知识的记录，详细学习笔记（仅用于个人学习）见https://uestc.feishu.cn/docx/DLzodhudBoMzlSxOqDZcnUpOneb?from=from_copylink

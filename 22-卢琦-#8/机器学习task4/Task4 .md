@@ -1,3 +1,5 @@
+Github链接https://github.com/Baixiaochi9449/jotangzhaoxin.git
+
 基础知识:
 
 **1、logits是什么？softmax函数是什么？**

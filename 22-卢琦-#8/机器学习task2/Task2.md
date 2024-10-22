@@ -1,3 +1,5 @@
+Github链接https://github.com/Baixiaochi9449/jotangzhaoxin.git
+
 题目中的问题作答：
 
 **1、计算机采用什么数据结构存储、处理图像？**
